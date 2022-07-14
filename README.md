@@ -1,5 +1,5 @@
 
-###                                                    Hi, I am Alexandra 👋
+###                                                    **Hi, I am Alexandra** 👋
 
 - 🦄 I am training to become a **Full-stack software developer**.
 - 👩🏼‍💻 I’m currently working on improving old projects and creating new ones.
@@ -7,6 +7,7 @@
 - ⚡️ I’m interested in **Web development** and **Artificial intelligence**.
 - 💬 Ask me about my interests and motivation!
 - 💡 Let's collaborate!
+- 📫 How to reach me: https://www.linkedin.com/in/alexandra-vladu/
 - 🧚🏼‍♀️ Fun fact: I spend my free time learning new things and writing for my blog.
 
 
