@@ -16,12 +16,13 @@
 
   
 
-**Support me**:<a href="https://www.buymeacoffee.com/alexandra21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+###   **Support me**:
+<a href="https://www.buymeacoffee.com/alexandra21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
 
-**My skills**:
+###   **My skills**:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,py,git,mysql,ruby,figma)](https://skills.thijs.gg)
 
 
