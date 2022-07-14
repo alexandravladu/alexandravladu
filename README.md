@@ -11,12 +11,11 @@
 
 
 
+![](https://komarev.com/ghpvc/?username=alexandravladu&color=blueviolet)
 
+  
 
-<a href="https://www.buymeacoffee.com/alexandravladu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>       ![](https://komarev.com/ghpvc/?username=alexandravladu&color=blueviolet)
-
-
-
+<a href="https://www.buymeacoffee.com/alexandra21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
