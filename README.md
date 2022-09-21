@@ -1,7 +1,7 @@
 
 ###                                                    **Hi, I am Alexandra** 👋
 
-- 🦄 I am training to become a **Full-stack software developer**.
+- 🦄 I am training to become a **Full-stack software engineer**.
 - 👩🏼‍💻 I’m currently working on improving old projects and creating new ones.
 - 🦋 I’m learning **React**, **Python**, **Ruby**, and **C#**.
 - ⚡️ I’m interested in **Web development** and **Artificial intelligence**.
