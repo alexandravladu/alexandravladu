@@ -3,7 +3,7 @@
 
 - 🦄 I am training to become a **Full-stack software engineer**.
 - 👩🏼‍💻 I’m currently working on improving old projects and creating new ones.
-- 🦋 I’m learning **React**, **Python**, **Ruby**, and **C#**.
+- 🦋 My focus is on **JavaScript**, **Python**, **Ruby**, and hopefully **Swift#** soon.
 - ⚡️ I’m interested in **Web development** and **Artificial intelligence**.
 - 💬 Ask me about my interests and motivation!
 - 💡 Let's collaborate!
