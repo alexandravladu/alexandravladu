@@ -4,7 +4,7 @@
 - 🦄 I am training to become a **Full-stack software engineer**.
 - 👩🏼‍💻 I’m currently working on improving old projects and creating new ones.
 - 🦋 My focus is on **JavaScript**, **Python**, **Ruby**, and hopefully **Swift** soon.
-- ⚡️ I’m interested in **Web development** and **Artificial intelligence**.
+- ⚡️ I’m interested in **Web development**, **Mobile app development**, and **Artificial intelligence**.
 - 💬 Ask me about my interests and motivation!
 - 💡 Let's collaborate!
 - 📫 How to reach me: https://www.linkedin.com/in/alexandra-vladu/
