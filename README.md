@@ -7,7 +7,6 @@
 - ⚡️ I’m interested in **Web development**, **Mobile app development**, and **Artificial intelligence**.
 - 💬 Ask me about my interests and motivation!
 - 💡 Let's collaborate!
-- 📫 How to reach me: https://www.linkedin.com/in/alexandra-vladu/
 - 🧚🏼‍♀️ Fun fact: I spend my free time learning new things and writing for my blog.
 
 
