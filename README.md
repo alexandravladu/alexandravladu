@@ -1,9 +1,9 @@
 
 ###                                                    **Hi, I am Alexandra** 👋
 
-- 🦄 I am training to become a **Full-stack software engineer**.
-- 🦋 My focus is on **JavaScript**, **Python**, **Ruby**, and hopefully **Swift** soon.
-- ⚡️ I’m interested in **Web development**, **Mobile app development**, and **Artificial intelligence**.
+- 🦄 I am training to become a **Full-stack Software Engineer**.
+- 🦋 My focus is on **JavaScript**,**TypeScript**, **Swift**, and I also have experience with **Python** and **Ruby**.
+- ⚡️ I’m interested in **Web development**, **iOS development**, **UX/UI/Web Design**, and **Artificial intelligence**.
 
 
 
